@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+#map {
+
+  height: 85vh;
+  width: 85vw;
+  top: 7.5vh;
+  left: 7.5vw;
+}
+
+h3 {
+  text-align: center;
+}
